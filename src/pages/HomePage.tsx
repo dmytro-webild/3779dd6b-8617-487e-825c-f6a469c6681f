@@ -27,16 +27,16 @@ export default function HomePage() {
       }}
       items={[
         {
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144002-83jhu8pd.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144002-83jhu8pd.jpg?_wi=1",
         },
         {
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-8p4zicxt.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-8p4zicxt.jpg?_wi=1",
         },
         {
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-spkyru6f.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-spkyru6f.jpg?_wi=1",
         },
         {
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144006-hjljxp62.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144006-hjljxp62.jpg?_wi=1",
         },
         {
           imageSrc: "http://img.b2bpic.net/free-photo/men-talking-basketball-court_23-2148264720.jpg",
@@ -73,7 +73,7 @@ export default function HomePage() {
           description: "Formamos jugadores con carácter, confianza y mentalidad ganadora dentro y fuera del campo.",
         },
       ]}
-      imageSrc="https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-spkyru6f.jpg"
+      imageSrc="https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-spkyru6f.jpg?_wi=2"
       textAnimation="fade-blur"
     />
     </SectionErrorBoundary>
@@ -110,7 +110,7 @@ export default function HomePage() {
           tag: "Mentatal",
           title: "Disciplina Ganadora",
           description: "Desarrollamos la confianza y la disciplina necesaria para triunfar bajo presión.",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144006-hjljxp62.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144006-hjljxp62.jpg?_wi=2",
           primaryButton: {
             text: "Saber Más",
             href: "#",
@@ -151,19 +151,19 @@ export default function HomePage() {
           title: "Bateo",
           description: "Perfeccionamiento de mecánicas de swing y poder.",
           href: "#",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-8p4zicxt.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-8p4zicxt.jpg?_wi=2",
         },
         {
           title: "Defensa",
           description: "Dominio del guante y desplazamientos en el cuadro.",
           href: "#",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144002-83jhu8pd.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144002-83jhu8pd.jpg?_wi=2",
         },
         {
           title: "Lanzamiento",
           description: "Control, mecánica y seguridad en el montículo.",
           href: "#",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-spkyru6f.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-spkyru6f.jpg?_wi=3",
         },
         {
           title: "Velocidad",

@@ -241,8 +241,8 @@ export default function HomePage() {
         href: "#",
       }}
       secondaryButton={{
-        text: "Contactar WhatsApp",
-        href: "#",
+        text: "Enviar Texto",
+        href: "sms:908-340-5099",
       }}
       textAnimation="slide-up"
     />

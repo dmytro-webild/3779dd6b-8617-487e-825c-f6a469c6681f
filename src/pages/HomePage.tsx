@@ -241,8 +241,8 @@ export default function HomePage() {
         href: "tel:908-340-5099",
       }}
       secondaryButton={{
-        text: "Enviar Texto",
-        href: "sms:908-340-5099",
+        text: "Enviar Mensaje",
+        href: "https://wa.me/19083405099",
       }}
       textAnimation="slide-up"
     />

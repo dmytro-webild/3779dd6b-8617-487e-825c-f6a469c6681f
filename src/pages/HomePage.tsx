@@ -42,7 +42,7 @@ export default function HomePage() {
           imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1783002394340-b256z9ht.jpg",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-smiley-girl-holding-baseball-bat_23-2148262444.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1783002715658-7a70piou.jpg",
         },
       ]}
       textAnimation="slide-up"

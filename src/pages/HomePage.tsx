@@ -237,8 +237,8 @@ export default function HomePage() {
       tag="Contacto"
       text="¿Listo para empezar a entrenar como un profesional? Reserva tu espacio hoy mismo."
       primaryButton={{
-        text: "Registrarse",
-        href: "#",
+        text: "Llamar",
+        href: "tel:908-340-5099",
       }}
       secondaryButton={{
         text: "Enviar Texto",

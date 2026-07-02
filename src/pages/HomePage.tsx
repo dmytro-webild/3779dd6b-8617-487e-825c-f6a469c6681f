@@ -39,7 +39,7 @@ export default function HomePage() {
           imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144006-hjljxp62.jpg?_wi=1",
         },
         {
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1783002394340-b256z9ht.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1783002394340-b256z9ht.jpg?_wi=1",
         },
         {
           imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1783002715658-7a70piou.jpg",
@@ -133,7 +133,7 @@ export default function HomePage() {
           title: "Individual",
           description: "Entrenamiento 1-a-1 enfocado en correcciones específicas.",
           href: "#",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1783002394340-b256z9ht.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1783002394340-b256z9ht.jpg?_wi=2",
         },
         {
           title: "En Grupo",
@@ -241,8 +241,8 @@ export default function HomePage() {
         href: "#",
       }}
       secondaryButton={{
-        text: "908-340-5099",
-        href: "tel:9083405099",
+        text: "Contactar WhatsApp",
+        href: "#",
       }}
       textAnimation="slide-up"
     />

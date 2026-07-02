@@ -163,7 +163,7 @@ export default function HomePage() {
           title: "Lanzamiento",
           description: "Control, mecánica y seguridad en el montículo.",
           href: "#",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-spkyru6f.jpg?_wi=3",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/tmp/baseball-player-throwing-a-baseball-1783003846154-bd0fb19e.png",
         },
         {
           title: "Velocidad",

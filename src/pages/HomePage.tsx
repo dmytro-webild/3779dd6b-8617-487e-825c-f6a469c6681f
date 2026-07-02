@@ -133,7 +133,7 @@ export default function HomePage() {
           title: "Individual",
           description: "Entrenamiento 1-a-1 enfocado en correcciones específicas.",
           href: "#",
-          imageSrc: "http://img.b2bpic.net/free-photo/teenage-player-with-baseball-glove_23-2148209545.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1783002394340-b256z9ht.jpg",
         },
         {
           title: "En Grupo",

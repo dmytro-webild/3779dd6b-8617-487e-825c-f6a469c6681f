@@ -169,7 +169,7 @@ export default function HomePage() {
           title: "Velocidad",
           description: "Agilidad, velocidad de piernas y explosividad.",
           href: "#",
-          imageSrc: "http://img.b2bpic.net/free-photo/badminton-rackets-shuttlecock-outdoors_23-2149858387.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/tmp/baseball-player-running-1783003781899-43dd0b47.png",
         },
       ]}
       textAnimation="fade"

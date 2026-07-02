@@ -139,7 +139,7 @@ export default function HomePage() {
           title: "En Grupo",
           description: "Trabajo colaborativo y competitivo en equipo.",
           href: "#",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-fitness-woman-sportswear-holding-baseball-bat-looking-aside-with-smile-face-pointing-back-with-thumb-standing-white-wall_141793-48627.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1783002660449-fldefwe5.jpg",
         },
         {
           title: "Clínicas",

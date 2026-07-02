@@ -90,7 +90,7 @@ export default function HomePage() {
           tag: "Técnica",
           title: "Fundamentos Sólidos",
           description: "Dominio de las mecánicas básicas esenciales para cualquier nivel de juego.",
-          imageSrc: "http://img.b2bpic.net/free-photo/men-playing-rugby-field_23-2150062033.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144002-83jhu8pd.jpg",
           primaryButton: {
             text: "Saber Más",
             href: "#",

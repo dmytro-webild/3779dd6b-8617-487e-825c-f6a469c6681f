@@ -145,7 +145,7 @@ export default function HomePage() {
           title: "Clínicas",
           description: "Intensivos de fin de semana para desarrollo rápido.",
           href: "#",
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-kids-playing-game_23-2149457306.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144006-hjljxp62.jpg",
         },
         {
           title: "Bateo",

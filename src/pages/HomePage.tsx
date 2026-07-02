@@ -100,7 +100,7 @@ export default function HomePage() {
           tag: "Potencia",
           title: "Fuerza y Agilidad",
           description: "Programas de acondicionamiento físico diseñados para atletas de alto rendimiento.",
-          imageSrc: "http://img.b2bpic.net/free-photo/active-teenager-jogging-outdoors_23-2148800908.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144004-spkyru6f.jpg",
           primaryButton: {
             text: "Saber Más",
             href: "#",

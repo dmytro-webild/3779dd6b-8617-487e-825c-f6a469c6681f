@@ -157,7 +157,7 @@ export default function HomePage() {
           title: "Defensa",
           description: "Dominio del guante y desplazamientos en el cuadro.",
           href: "#",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/uploaded-1782926144002-83jhu8pd.jpg?_wi=2",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FpiWD2mEatqO8d1l0ntgz68nHG/tmp/baseball-player-filding-a-baseball-1783003934332-f0fde137.png",
         },
         {
           title: "Lanzamiento",
